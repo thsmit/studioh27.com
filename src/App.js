@@ -15,7 +15,7 @@ function App() {
   return (
     
   <div className='container'>
-    <p>Studio_H27</p>
+    <p>studio_H27</p>
   </div>
 
   );
